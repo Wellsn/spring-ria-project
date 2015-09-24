@@ -1,0 +1,1 @@
+Java project using Spring Struts 2 JPA and AJAX
